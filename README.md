@@ -57,7 +57,7 @@
 
 - **8.** Теперь можно перейти к самим тестам. Запустить `Docker Desktop`:
 
-    - 8.1. Запустить `Командная строку` ИЛИ `Windows PowerShell` и ввести:
+    - 8.1. Запустить `Командную строку` ИЛИ `Windows PowerShell` и ввести:
 
     `cd C:\Users\current_user_name\selenium-autotests\tests`
 
