@@ -34,7 +34,7 @@
     `pip install pluggy` 
 
 
-- **6.** Запуск OpenCart:
+- **6.** Запуск «OpenCart»:
 
     - 6.1. Запустить `Docker Desktop`
 
@@ -44,7 +44,11 @@
 
     `docker-compose up -d` ИЛИ `docker compose up -d`
 
-  OpenCart будет доступен на: `http://localhost:8081`
+  «OpenCart» будет доступен на: `http://localhost:8081`
+
+- **7.** Остановка:
+
+    - 7.1. Ввёл `docker-compose down` ИЛИ `docker compose down`
 
   `Примечание: вместо "current_user_name" - нужно вписать имя текущего пользователя компьютера!`
 
