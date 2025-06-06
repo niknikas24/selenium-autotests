@@ -38,7 +38,7 @@
 
     - 6.1. Запустить `Docker Desktop`
 
-    - 6.2. Открыть `Windows PowerShell` ИЛИ `Командная строку` и ввести: 
+    - 6.2. Открыть `Windows PowerShell` ИЛИ `Командную строку` и ввести: 
 
     `cd C:\Users\current_user_name\selenium-autotests` 
 
@@ -48,7 +48,7 @@
 
 - **7.** Остановка:
 
-    - 7.1. В `Windows PowerShell` ИЛИ `Командная строку` ввести:
+    - 7.1. В `Windows PowerShell` ИЛИ `Командной строке` ввести:
   
     `docker-compose down` ИЛИ `docker compose down`
 
