@@ -40,7 +40,7 @@
 
     - 6.2. Открыть `Windows PowerShell` ИЛИ `Командная строку` и ввести: 
 
-    `cd C:\Users\current_user_name\PycharmProjects\selenium` 
+    `cd C:\Users\current_user_name\selenium-autotests` 
 
     `docker-compose up -d` ИЛИ `docker compose up -d`
 
