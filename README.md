@@ -48,7 +48,9 @@
 
 - **7.** Остановка:
 
-    - 7.1. Ввёл `docker-compose down` ИЛИ `docker compose down`
+    - 7.1. В `Windows PowerShell` ИЛИ `Командная строку` ввести:
+  
+    `docker-compose down` ИЛИ `docker compose down`
 
   `Примечание: вместо "current_user_name" - нужно вписать имя текущего пользователя компьютера!`
 
